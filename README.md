@@ -4,3 +4,4 @@ Code used for the thesis submitted by Yatin
 "Regression" contains the code written for preparing and running the Pooled OLS and TWFE regression.
 
 #"RobAgeCheckRegression" and "PlaceboRegression" are additional extra robustness checks ran for checking the strength of the central claim of the thesis.
+
